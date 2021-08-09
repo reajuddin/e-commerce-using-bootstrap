@@ -20,3 +20,34 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat-1{
+    background-image: linear-gradient(to bottom, #ff9c35 0%, #ffd019 100%);
+    background-color: orange;
+}
+
+.cat-2{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    background-color: orchid;
+}
+
+.cat-3{
+    background-image: linear-gradient(to bottom, #4829ff 0%, #07f8c3 100%);
+    background-color: blue;
+}
+
+.cat-1, .cat-2, .cat-3{
+    border: none;
+    border-radius: 8px;
+    margin: 100px 0px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+.catagories h1{
+    color: white;
+}
+
+.catagories img{
+    width: 100px;
+}
