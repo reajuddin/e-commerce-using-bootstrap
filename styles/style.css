@@ -40,11 +40,14 @@
 .cat-1, .cat-2, .cat-3{
     border: none;
     border-radius: 8px;
-    margin: 100px 0px;
+    margin: 10px;
     padding: 10px 30px;
     cursor: pointer;
 }
 
+.catagories{
+    margin: 100px;
+}
 .catagories h1{
     color: white;
 }
@@ -68,3 +71,16 @@
     margin-bottom: 100px;
 }
 
+#subscribe{
+    height: 300px;
+}
+
+#subscribe h6{
+    color: gray;
+}
+
+
+footer{
+    text-align: center;
+    color: greenyellow;
+}
